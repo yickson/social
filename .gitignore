@@ -1,0 +1,5 @@
+.env
+_ide_helper.php
+node_modules
+vendor
+.idea
